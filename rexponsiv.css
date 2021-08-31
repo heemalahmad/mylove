@@ -2,7 +2,7 @@
     #demo {
         width: 300px;
         height: 400px;
-        background-color: rgb(218, 225, 236);
+        background-color: red;
         border: 1px solid black;
         border-radius: 0px 20px 0px 25px;
         position: relative;
